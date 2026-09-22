@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Roger Perez Becerra
 
-<!--
-**RogerPerezB/RogerPerezB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer with an Honours degree in Computer Science and a minor in Biology. 
+I am passionate about building robust applications, from responsive front-ends to complex back-end architectures.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** JavaScript, Python, C++, C#, Java, PL/SQL
+- **Tools & Frameworks:** React, Node.js, Qt, OpenStack, Qiskit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Quantum Computing Simulation:** Implemented Shor's algorithm using Qiskit for my Honours project.
+
+### 📫 Let's Connect
+- **LinkedIn:** 
+- **Portfolio Website:** 
